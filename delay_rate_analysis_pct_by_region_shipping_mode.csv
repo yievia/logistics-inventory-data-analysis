@@ -1,0 +1,13 @@
+region,shipping_mode,total_shipments,delayed_shipments,delay_rate_pct
+South,Sea,3,3,100.00
+East,Land,3,3,100.00
+Central,Sea,3,3,100.00
+East,Sea,4,4,100.00
+South,Air,3,3,100.00
+East,Air,5,4,80.00
+Central,Land,4,3,75.00
+North,Sea,3,2,66.67
+South,Land,6,4,66.67
+North,Land,6,4,66.67
+North,Air,4,2,50.00
+Central,Air,6,2,33.33

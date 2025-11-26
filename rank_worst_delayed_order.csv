@@ -1,0 +1,11 @@
+order_id,sku,region,lead_time,expected_lead_time,delay_flag,delay_rank
+1019,SKU004,South,5,3,Delayed,1
+1040,SKU004,Central,5,3,Delayed,2
+1044,SKU005,Central,5,3,Delayed,3
+1007,SKU002,South,4,3,Delayed,4
+1008,SKU006,East,3,2,Delayed,5
+1011,SKU002,South,4,3,Delayed,6
+1013,SKU001,East,3,2,Delayed,7
+1014,SKU006,North,4,3,Delayed,8
+1016,SKU005,Central,4,3,Delayed,9
+1017,SKU007,East,4,3,Delayed,10

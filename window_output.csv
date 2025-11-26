@@ -1,0 +1,51 @@
+order_id,sku,category,product_name,region,lead_time,delay_flag
+1001,SKU001,Cleaning,"Liquid Detergent 500ml",Central,3,"On Time"
+1002,SKU002,Cleaning,"Multi-surface Cleaner 1L",North,3,"On Time"
+1003,SKU003,Hardware,"LED Bulb 12W",South,4,Delayed
+1004,SKU001,Cleaning,"Liquid Detergent 500ml",East,2,"On Time"
+1005,SKU004,Home,"Plastic Storage Box 20L",Central,0,"On Time"
+1006,SKU005,Cleaning,"Fabric Softener 1L",North,3,Delayed
+1007,SKU002,Cleaning,"Multi-surface Cleaner 1L",South,4,Delayed
+1008,SKU006,Hardware,"Extension Cord 3m",East,3,Delayed
+1009,SKU007,Home,"Microfiber Mop Set",Central,3,"On Time"
+1010,SKU003,Hardware,"LED Bulb 12W",North,1,"On Time"
+1011,SKU002,Cleaning,"Multi-surface Cleaner 1L",South,4,Delayed
+1012,SKU004,Home,"Plastic Storage Box 20L",Central,1,"On Time"
+1013,SKU001,Cleaning,"Liquid Detergent 500ml",East,3,Delayed
+1014,SKU006,Hardware,"Extension Cord 3m",North,4,Delayed
+1015,SKU003,Hardware,"LED Bulb 12W",South,1,"On Time"
+1016,SKU005,Cleaning,"Fabric Softener 1L",Central,4,Delayed
+1017,SKU007,Home,"Microfiber Mop Set",East,4,Delayed
+1018,SKU002,Cleaning,"Multi-surface Cleaner 1L",North,2,"On Time"
+1019,SKU004,Home,"Plastic Storage Box 20L",South,5,Delayed
+1020,SKU006,Hardware,"Extension Cord 3m",Central,4,Delayed
+1021,SKU001,Cleaning,"Liquid Detergent 500ml",North,2,"On Time"
+1022,SKU003,Hardware,"LED Bulb 12W",East,4,Delayed
+1023,SKU005,Cleaning,"Fabric Softener 1L",South,4,Delayed
+1024,SKU007,Home,"Microfiber Mop Set",Central,3,Delayed
+1025,SKU002,Cleaning,"Multi-surface Cleaner 1L",East,4,Delayed
+1026,SKU004,Home,"Plastic Storage Box 20L",North,1,"On Time"
+1027,SKU006,Hardware,"Extension Cord 3m",South,4,Delayed
+1028,SKU001,Cleaning,"Liquid Detergent 500ml",Central,3,Delayed
+1029,SKU003,Hardware,"LED Bulb 12W",North,4,Delayed
+1030,SKU005,Cleaning,"Fabric Softener 1L",East,3,Delayed
+1031,SKU007,Home,"Microfiber Mop Set",South,4,Delayed
+1032,SKU002,Cleaning,"Multi-surface Cleaner 1L",Central,3,Delayed
+1033,SKU004,Home,"Plastic Storage Box 20L",East,4,Delayed
+1034,SKU006,Hardware,"Extension Cord 3m",North,3,Delayed
+1035,SKU001,Cleaning,"Liquid Detergent 500ml",South,4,Delayed
+1036,SKU003,Hardware,"LED Bulb 12W",Central,3,Delayed
+1037,SKU005,Cleaning,"Fabric Softener 1L",North,4,Delayed
+1038,SKU007,Home,"Microfiber Mop Set",East,4,Delayed
+1039,SKU002,Cleaning,"Multi-surface Cleaner 1L",South,2,"On Time"
+1040,SKU004,Home,"Plastic Storage Box 20L",Central,5,Delayed
+1041,SKU006,Hardware,"Extension Cord 3m",East,3,Delayed
+1042,SKU001,Cleaning,"Liquid Detergent 500ml",North,4,Delayed
+1043,SKU003,Hardware,"LED Bulb 12W",South,3,Delayed
+1044,SKU005,Cleaning,"Fabric Softener 1L",Central,5,Delayed
+1045,SKU007,Home,"Microfiber Mop Set",North,3,Delayed
+1046,SKU002,Cleaning,"Multi-surface Cleaner 1L",East,4,Delayed
+1047,SKU004,Home,"Plastic Storage Box 20L",South,4,Delayed
+1048,SKU006,Hardware,"Extension Cord 3m",Central,2,"On Time"
+1049,SKU001,Cleaning,"Liquid Detergent 500ml",East,4,Delayed
+1050,SKU003,Hardware,"LED Bulb 12W",North,3,Delayed
