@@ -17,10 +17,11 @@ This project demonstrates SQL skills using a simulated logistics and inventory d
 ## File Structure
 /data — CSV datasets  
 /sql — SQL scripts  
-/screenshots — execution results  
+/powerbi — dashboard visualization  
 
 ## Tools Used
 MySQL Workbench (MySQL 8)
+Power BI
 
 ## Example Output
 - Monthly delay rate
